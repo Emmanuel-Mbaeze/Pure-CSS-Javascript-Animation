@@ -52,6 +52,7 @@ const Title = styled.div`
   position: relative;
   animation: title;
   animation-fill-mode: forwards;
+  /* background:linear-gradient(to right, #2c5364, #0f2027); */
   animation-duration: 9s;
   @keyframes title {
     0% {
